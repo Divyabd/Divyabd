@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyabd&show_icons=true&locale=en" alt="divyabd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyabd&" alt="divyabd" /></p>
-](https://sdtimes.com/wp-content/uploads/2018/10/jfrog-logo-1.png)https://sdtimes.com/wp-content/uploads/2018/10/jfrog-logo-1.png
