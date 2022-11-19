@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabd&label=Profile%20views&color=0e75b6&style=flat" alt="divyabd" /> </p>
 
+<img align="right" alt="DEVOPS" width="400" src="https://user-images.githubusercontent.com/55967072/202847778-6599e788-d0f0-4cdb-978f-1a594b921271.png">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Divyabd](https://github.com/Divyabd)
 
 - 💬 as me about **DevOps tools**
