@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabd&label=Profile%20views&color=0e75b6&style=flat" alt="divyabd" /> </p>
 
-<img align="right" alt="DEVOPS" width="400" src="https://user-images.githubusercontent.com/55967072/202847778-6599e788-d0f0-4cdb-978f-1a594b921271.png">
+<img align="right" alt="DEVOPS" width="400" src="https://i.pinimg.com/originals/f0/2f/c3/f02fc3aed73d467bcd5a9acd046b45da.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Divyabd](https://github.com/Divyabd)
 
